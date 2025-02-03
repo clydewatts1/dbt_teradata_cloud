@@ -1,0 +1,1 @@
+# dbt_teradata_cloud
